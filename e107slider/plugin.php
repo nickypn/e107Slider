@@ -32,26 +32,26 @@ $eplug_icon_small = $eplug_folder . '/images/e107slider-logo-16.png';
 $eplug_caption = 'e107Slider';
 $eplug_prefs = array(
 
-'vs_slider_title'=>'Featured',
-'vs_slider_auto'=>'random',
-'vs_slider_speed'=>'500',
-'vs_slider_timeout'=>'6000',
-'vs_slider_pager'=>'true',
-'vs_slider_nav'=>'true',
-'vs_slider_random'=>'false',
-'vs_slider_pause'=>'true',
-'vs_slider_pauseControls'=>'true',
+'es_slider_title'=>'Featured',
+'es_slider_auto'=>'random',
+'es_slider_speed'=>'500',
+'es_slider_timeout'=>'6000',
+'es_slider_pager'=>'true',
+'es_slider_nav'=>'true',
+'es_slider_random'=>'false',
+'es_slider_pause'=>'true',
+'es_slider_pauseControls'=>'true',
 
-'vs_slider_news_title'=>'Latest News',
-'vs_slider_news_amount'=>'5',
-'vs_slider_news_auto'=>'random',
-'vs_slider_news_speed'=>'500',
-'vs_slider_news_timeout'=>'6000',
-'vs_slider_news_pager'=>'true',
-'vs_slider_news_nav'=>'true',
-'vs_slider_news_random'=>'false',
-'vs_slider_news_pause'=>'true',
-'vs_slider_news_pauseControls'=>'true'
+'es_slider_news_title'=>'Latest News',
+'es_slider_news_amount'=>'5',
+'es_slider_news_auto'=>'random',
+'es_slider_news_speed'=>'500',
+'es_slider_news_timeout'=>'6000',
+'es_slider_news_pager'=>'true',
+'es_slider_news_nav'=>'true',
+'es_slider_news_random'=>'false',
+'es_slider_news_pause'=>'true',
+'es_slider_news_pauseControls'=>'true'
 
 );
 
