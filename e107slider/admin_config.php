@@ -107,7 +107,7 @@ $es_text .= "
 					
 					<p class='licence'>Copyright (c) 2011-2012 Viljami Salminen, <a href='http://viljamis.com/'>http://viljamis.com/</a></p>
 					
-					<p class='licence'>Licensed under the <a href='http://www.opensource.org/licenses/mit-license.php'>MIT</a>MIT</a> license.</p>
+					<p class='licence'>Licensed under the <a href='http://www.opensource.org/licenses/mit-license.php'>MIT</a> license.</p>
 					
 				</td>
 			</tr>
