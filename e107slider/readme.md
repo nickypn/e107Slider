@@ -4,7 +4,7 @@
 
 The e107Slider Plugin is a lightweight responsive slider built using ResponsiveSlides.js. The plugin has 2 menus, an image slider and a news slider.
 
-ResponsiveSlides.js is a tiny jQuery plugin that creates a responsive slider using list items inside `&#60;ul&#62;`. It works with wide range of browsers including all IE versions from IE6 and up. It also adds css max-width support for IE6 and other browsers that don't natively support it. Its only dependency is that **all the images are the same size**.
+ResponsiveSlides.js is a tiny jQuery plugin that creates a responsive slider using list items inside `<ul>`. It works with wide range of browsers including all IE versions from IE6 and up. It also adds css max-width support for IE6 and other browsers that don't natively support it. Its only dependency is that **all the images are the same size**.
 
 The biggest difference to other responsive slider plugins is the file size (1kb minified and gzipped).
 
