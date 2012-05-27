@@ -15,11 +15,11 @@
 */
 
 if(basename($_SERVER['PHP_SELF'])=='admin_slider_settings.php' || basename($_SERVER['PHP_SELF'])=='admin_news_slider_settings.php' || basename($_SERVER['PHP_SELF'])=='admin_config.php' ) {
-echo '<link rel="stylesheet" type="text/css" href="'.e_PLUGIN_ABS.'vanilla_slider/style.css" />';
+echo '<link rel="stylesheet" type="text/css" href="'.e_PLUGIN_ABS.'e107slider/style.css" />';
 }
 
 if(basename($_SERVER['PHP_SELF'])=='admin_slider.php' ) {
-echo '<link rel="stylesheet" type="text/css" href="'.e_PLUGIN_ABS.'vanilla_slider/style.css" />
+echo '<link rel="stylesheet" type="text/css" href="'.e_PLUGIN_ABS.'e107slider/style.css" />
 <script type="text/javascript">
     function addtext(sc) {
       	document.forms.dataform.vs_image.value=sc;
@@ -30,10 +30,10 @@ echo '<link rel="stylesheet" type="text/css" href="'.e_PLUGIN_ABS.'vanilla_slide
 global $pref;
 
 echo "
-	<link rel='stylesheet' type='text/css' href='".e_PLUGIN."vanilla_slider/css/responsiveslides.css' media='screen' />
+	<link rel='stylesheet' type='text/css' href='".e_PLUGIN."e107slider/css/responsiveslides.css' media='screen' />
 	<script src='//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
-	<!--<script src='".e_PLUGIN."vanilla_slider/scripts/jquery-1.7.2.min.js'></script>-->
-	<script src='".e_PLUGIN."vanilla_slider/scripts/responsiveslides.min.js'></script>
+	<!--<script src='".e_PLUGIN."e107slider/scripts/jquery-1.7.2.min.js'></script>-->
+	<script src='".e_PLUGIN."e107slider/scripts/responsiveslides.min.js'></script>
 	<script type='text/javascript'>
 		$(function () {
 
