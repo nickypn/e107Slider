@@ -27,7 +27,7 @@ define(ES_PLUGIN_6, 'e107Slider Plugin');
 define(ES_PLUGIN_MU_1, 'Image Slider');
 define(ES_PLUGIN_MU_2, 'News Slider');
 define(ES_PLUGIN_MU_3, 'Slider Settings');
-define(ES_PLUGIN_MU_4, 'Introduction');
+define(ES_PLUGIN_MU_4, 'Plugin Details');
 define(ES_PLUGIN_MU_5, 'Vanilla Theme');
 define(ES_PLUGIN_MU_6, 'Vanilla is the ultimate e107 theme! It\'s as close to an e107 theme builder as you\'re going to get.');
 
@@ -65,12 +65,12 @@ define(ES_PLUGIN_PL_2, 'Plugin Installed Successfully!');
 define(ES_PLUGIN_PL_3, 'Plugin Updated Successfully!');
 
 /*admin_config.php*/
-define(ES_PLUGIN_CF_1, 'Introduction');
-define(ES_PLUGIN_CF_2, 'The e107Slider Plugin is a lightweight responsive slider built using ResponsiveSlides.js. The plugin has 2 menus, an <a href=\''.e_PLUGIN.'vanilla_slider/admin_slider_settings.php\'>image slider</a> and a <a href=\''.e_PLUGIN.'vanilla_slider/admin_news_slider_settings.php\'>news slider</a>.');
+define(ES_PLUGIN_CF_1, 'Plugin Details');
+define(ES_PLUGIN_CF_2, 'The e107Slider Plugin is a lightweight responsive slider built using ResponsiveSlides.js. The plugin has 2 menus, an <a href=\''.e_PLUGIN.'e107/admin_slider_settings.php\'>image slider</a> and a <a href=\''.e_PLUGIN.'e107slider/admin_news_slider_settings.php\'>news slider</a>.');
 define(ES_PLUGIN_CF_3, 'ResponsiveSlides.js is a tiny jQuery plugin that creates a responsive slider using list items inside &#60;ul&#62;. It works with wide range of browsers including all IE versions from IE6 and up. It also adds css max-width support for IE6 and other browsers that don\'t natively support it. Its only dependency is that <strong>all the images are the same size</strong>.');
 define(ES_PLUGIN_CF_4, 'The biggest difference to other responsive slider plugins is the file size (1kb minified and gzipped).');
 define(ES_PLUGIN_CF_5, 'Instructions');
-define(ES_PLUGIN_CF_6, 'The Image Slider Menu displays image slides and an optional caption, slides can also be given a link. The menu has a number of settings which can be configured in the <a href=\''.e_PLUGIN.'vanilla_slider/admin_slider_settings.php\'>Image Slider settings</a> page.');
+define(ES_PLUGIN_CF_6, 'The Image Slider Menu displays image slides and an optional caption, slides can also be given a link. The menu has a number of settings which can be configured in the <a href=\''.e_PLUGIN.'e107/admin_slider_settings.php\'>Image Slider settings</a> page.');
 define(ES_PLUGIN_CF_7, 'Add images to <code>e107_plugins/e107slider/slides/</code> then choose which image to use when you \'Add a Slide\'. <strong>Each image must be the same size</strong>. You can add an optional caption or create a link for each slide. Captions can contain HTML.');
-define(ES_PLUGIN_CF_8, 'The News Slider Menu will display your latest news posts images and headline in a responsive slider. The slides are generated from the news items image which is set when you create a news item. <strong>Each image must be the same size</strong>. You can choose how many posts to display in the <a href=\''.e_PLUGIN.'vanilla_slider/admin_news_slider_settings.php\'>News Slider settings</a> page.');
+define(ES_PLUGIN_CF_8, 'The News Slider Menu will display your latest news posts images and headline in a responsive slider. The slides are generated from the news items image which is set when you create a news item. <strong>Each image must be the same size</strong>. You can choose how many posts to display in the <a href=\''.e_PLUGIN.'e107/admin_news_slider_settings.php\'>News Slider settings</a> page.');
 define(ES_PLUGIN_CF_9, 'Licence');
