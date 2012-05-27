@@ -24,7 +24,7 @@ if ( !getperms( "P" ) ) {
     exit;
 }
 
-include_lan(e_PLUGIN.'vanilla_slider/languages/".e_LANGUAGE.".php');
+include_lan(e_PLUGIN.'e107slider/languages/".e_LANGUAGE.".php');
 
 require_once( e_ADMIN . "auth.php" );
 
