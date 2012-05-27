@@ -1,8 +1,8 @@
 <?php
 /*
- * e107Slider Plugin v0.1
+ * e107Slider Plugin
  *
- * Copyright (C) 2007-2012 Xen Themes (xenthemes.com)
+ * Copyright (C) 2012 Xen Themes (xenthemes.com)
  *
  * Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) or 
  * GPL Version 2 (http://www.gnu.org/licenses/gpl-2.0.txt) licenses
@@ -20,10 +20,9 @@ $eplug_version = '0.1';
 $eplug_author = 'Xen Themes';
 $eplug_url = 'http://www.xenthemes.com/';
 $eplug_email = 'support@xenthemes.com';
-$eplug_description = '';
-$eplug_compatible = 'e107v1.0.1 +';
-$eplug_readme = '';
-$eplug_compliant = true;
+$eplug_description = 'Lightweight responsive slider menus for e107<br />Dual licensed under the <a href="'.e_PLUGIN.'e107slider/licence.txt">MIT or GPL Version 2</a> licenses';
+$eplug_compatible = 'e107v1.0.1+';
+$eplug_readme = $eplug_folder . 'readme.txt';
 $eplug_folder = 'e107slider';
 $eplug_menu_name = true;
 $eplug_conffile = 'admin_config.php';
