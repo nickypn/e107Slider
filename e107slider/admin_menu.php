@@ -29,7 +29,7 @@ $var['admin_slider_settings']['link'] = 'admin_slider_settings.php';
 $var['admin_news_slider_settings']['text'] = ES_PLUGIN_MU_2;
 $var['admin_news_slider_settings']['link'] = 'admin_news_slider_settings.php';
 
-show_admin_menu(es_PLUGIN_MU_3, $action, $var);
+show_admin_menu(ES_PLUGIN_MU_3, $action, $var);
 
 $vanillatheme_text = "
 	<div class='tip'>
