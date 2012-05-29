@@ -50,4 +50,4 @@ global $sql, $tp, $pref;
       			</div>
       			";
 
-$ns -> tablerender( $pref['es_slider_news_title'], $es_text, 'e107newsslider' );
+$ns -> tablerender( $pref['es_slider_news_title'], $es_text, 'e107slider_news' );
