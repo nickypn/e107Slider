@@ -32,7 +32,7 @@ $eplug_caption = 'e107Slider';
 $eplug_prefs = array(
 
 'es_slider_title'=>'Featured',
-'es_slider_auto'=>'random',
+'es_slider_auto'=>'true',
 'es_slider_speed'=>'500',
 'es_slider_timeout'=>'6000',
 'es_slider_pager'=>'true',
@@ -43,7 +43,7 @@ $eplug_prefs = array(
 
 'es_slider_news_title'=>'Latest News',
 'es_slider_news_amount'=>'5',
-'es_slider_news_auto'=>'random',
+'es_slider_news_auto'=>'true',
 'es_slider_news_speed'=>'500',
 'es_slider_news_timeout'=>'6000',
 'es_slider_news_pager'=>'true',
