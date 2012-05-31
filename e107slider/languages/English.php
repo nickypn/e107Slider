@@ -29,7 +29,7 @@ define(ES_PLUGIN_MU_2, 'News Slider');
 define(ES_PLUGIN_MU_3, 'Slider Settings');
 define(ES_PLUGIN_MU_4, 'Plugin Details');
 define(ES_PLUGIN_MU_5, 'Vanilla Theme');
-define(ES_PLUGIN_MU_6, 'Vanilla is the ultimate e107 theme! It\'s as close to an e107 theme builder as you\'re going to get.');
+define(ES_PLUGIN_MU_6, '<p>Build an unlimited number of unique sites with the most powerful e107 theme on the market!</p><p><a href="http://www.xenthemes.com/product/e107/vanilla/">View Vanilla Theme Details</a></p>');
 
 /*admin_slider_settings.php*/
 define(ES_PLUGIN_SS_1, 'Slider Settings');
