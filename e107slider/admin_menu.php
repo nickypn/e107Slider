@@ -32,10 +32,8 @@ $var['admin_news_slider_settings']['link'] = 'admin_news_slider_settings.php';
 show_admin_menu(ES_PLUGIN_MU_3, $action, $var);
 
 $vanillatheme_text = "
-	<div class='tip'>
-   		<h3>".ES_PLUGIN_MU_5."</h3>
-   		<p>".ES_PLUGIN_MU_5."</p>
-   	</div>
+   	<h3>".ES_PLUGIN_MU_5."</h3>
+   	".ES_PLUGIN_MU_6."
    				
    			";
 $ns->tablerender('', $vanillatheme_text);
