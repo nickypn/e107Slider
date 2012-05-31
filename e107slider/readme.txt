@@ -58,6 +58,6 @@ Licensed under the MIT license.
 Changelog
 ---------
 
-= 0.1 =
+= 0.1 - 30 May 2012
 
 * Initial beta release
