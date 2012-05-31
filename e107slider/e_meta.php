@@ -22,7 +22,7 @@ if(basename($_SERVER['PHP_SELF'])=='admin_slider.php' ) {
 echo '<link rel="stylesheet" type="text/css" href="'.e_PLUGIN_ABS.'e107slider/style.css" />
 <script type="text/javascript">
     function addtext(sc) {
-      	document.forms.dataform.vs_image.value=sc;
+      	document.forms.dataform.es_image.value=sc;
     }
 </script>';
 }
@@ -38,25 +38,25 @@ echo "
 		$(function () {
 
       		$(\".rslides1\").responsiveSlides({
-      			auto: ".$pref['vs_slider_auto'].",
-  				speed: ".$pref['vs_slider_speed'].",
-  				timeout: ".$pref['vs_slider_timeout'].",
-  				pager: ".$pref['vs_slider_pager'].",
-  				nav: ".$pref['vs_slider_nav'].",
-  				random: ".$pref['vs_slider_random'].",
-  				pause: ".$pref['vs_slider_pause'].",
-  				pauseControls: ".$pref['vs_slider_pauseControls']."
+      			auto: ".$pref['es_slider_auto'].",
+  				speed: ".$pref['es_slider_speed'].",
+  				timeout: ".$pref['es_slider_timeout'].",
+  				pager: ".$pref['es_slider_pager'].",
+  				nav: ".$pref['es_slider_nav'].",
+  				random: ".$pref['es_slider_random'].",
+  				pause: ".$pref['es_slider_pause'].",
+  				pauseControls: ".$pref['es_slider_pauseControls']."
       		});
       		
       		$(\".rslides2\").responsiveSlides({
-        		auto: ".$pref['vs_slider_news_auto'].",
-  				speed: ".$pref['vs_slider_news_speed'].",
-  				timeout: ".$pref['vs_slider_news_timeout'].",
-  				pager: ".$pref['vs_slider_news_pager'].",
-  				nav: ".$pref['vs_slider_news_nav'].",
-  				random: ".$pref['vs_slider_news_random'].",
-  				pause: ".$pref['vs_slider_news_pause'].",
-  				pauseControls: ".$pref['vs_slider_news_pauseControls']."
+        		auto: ".$pref['es_slider_news_auto'].",
+  				speed: ".$pref['es_slider_news_speed'].",
+  				timeout: ".$pref['es_slider_news_timeout'].",
+  				pager: ".$pref['es_slider_news_pager'].",
+  				nav: ".$pref['es_slider_news_nav'].",
+  				random: ".$pref['es_slider_news_random'].",
+  				pause: ".$pref['es_slider_news_pause'].",
+  				pauseControls: ".$pref['es_slider_news_pauseControls']."
       		});
 
     	});
